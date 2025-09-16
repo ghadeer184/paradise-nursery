@@ -1,7 +1,3 @@
-Here’s a **ready-to-use `README.md`** you can drop into your repository.
-It describes the Paradise Nursery web app, its features, setup instructions, and deployment details.
-
-```markdown
 # 🌱 Paradise Nursery
 
 A simple, responsive e-commerce web app for browsing and purchasing houseplants.  
@@ -104,4 +100,3 @@ This project is open-source under the [MIT License](LICENSE).
    git add README.md
    git commit -m "Add README"
    git push
-````
