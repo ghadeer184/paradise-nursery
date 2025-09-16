@@ -1,7 +1,7 @@
 # 🌱 Paradise Nursery
 
 A simple, responsive e-commerce web app for browsing and purchasing houseplants.  
-Built with **vanilla HTML, CSS, and JavaScript**—no frameworks or build tools required.
+Built with **vanilla HTML, CSS, and JavaScript**. No frameworks or build tools required.
 
 ---
 
@@ -41,11 +41,7 @@ Built with **vanilla HTML, CSS, and JavaScript**—no frameworks or build tools 
 
 ```
 
-paradise-nursery/
-├─ index.html        # Landing page
-├─ shop.html         # Main shopping interface (if separated)
-├─ style.css         # All styling
-└─ script.js         # Cart and UI logic
+monolith architecture
 
 ````
 
@@ -60,7 +56,7 @@ paradise-nursery/
 ````
 
 2. **Open in a browser**
-   Simply open `index.html` (or `shop.html`) in any modern browser.
+   Simply open `index.html` in any modern browser.
    No build step is required.
 
 ---
@@ -89,14 +85,3 @@ Fork the repo and create a new branch for any changes.
 ## 📜 License
 
 This project is open-source under the [MIT License](LICENSE).
-
-````
-
-**How to use:**  
-1. Create a file named `README.md` in the root of your repository.  
-2. Paste the text above.  
-3. Commit and push:
-   ```bash
-   git add README.md
-   git commit -m "Add README"
-   git push
